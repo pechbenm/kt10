@@ -1,0 +1,99 @@
+C:\Users\0\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.exe
+C:\Users\0\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.deps.json
+C:\Users\0\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.runtimeconfig.json
+C:\Users\0\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.dll
+C:\Users\0\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.pdb
+C:\Users\0\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\0\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfo.cs
+C:\Users\0\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\0\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.dll
+C:\Users\0\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\refint\ConsoleApp14.dll
+C:\Users\0\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.pdb
+C:\Users\0\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.genruntimeconfig.cache
+C:\Users\0\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\ref\ConsoleApp14.dll
+C:\Users\0\source\repos\Перегрузка Индексаторов\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.exe
+C:\Users\0\source\repos\Перегрузка Индексаторов\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.deps.json
+C:\Users\0\source\repos\Перегрузка Индексаторов\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.runtimeconfig.json
+C:\Users\0\source\repos\Перегрузка Индексаторов\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.dll
+C:\Users\0\source\repos\Перегрузка Индексаторов\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.pdb
+C:\Users\0\source\repos\Перегрузка Индексаторов\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\source\repos\Перегрузка Индексаторов\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\0\source\repos\Перегрузка Индексаторов\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfo.cs
+C:\Users\0\source\repos\Перегрузка Индексаторов\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\0\source\repos\Перегрузка Индексаторов\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.dll
+C:\Users\0\source\repos\Перегрузка Индексаторов\ConsoleApp14\obj\Debug\net8.0\refint\ConsoleApp14.dll
+C:\Users\0\source\repos\Перегрузка Индексаторов\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.pdb
+C:\Users\0\source\repos\Перегрузка Индексаторов\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.genruntimeconfig.cache
+C:\Users\0\source\repos\Перегрузка Индексаторов\ConsoleApp14\obj\Debug\net8.0\ref\ConsoleApp14.dll
+C:\Users\0\source\repos\Интерфейсы\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.exe
+C:\Users\0\source\repos\Интерфейсы\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.deps.json
+C:\Users\0\source\repos\Интерфейсы\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.runtimeconfig.json
+C:\Users\0\source\repos\Интерфейсы\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.dll
+C:\Users\0\source\repos\Интерфейсы\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.pdb
+C:\Users\0\source\repos\Интерфейсы\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\source\repos\Интерфейсы\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\0\source\repos\Интерфейсы\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfo.cs
+C:\Users\0\source\repos\Интерфейсы\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\0\source\repos\Интерфейсы\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.dll
+C:\Users\0\source\repos\Интерфейсы\ConsoleApp14\obj\Debug\net8.0\refint\ConsoleApp14.dll
+C:\Users\0\source\repos\Интерфейсы\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.pdb
+C:\Users\0\source\repos\Интерфейсы\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.genruntimeconfig.cache
+C:\Users\0\source\repos\Интерфейсы\ConsoleApp14\obj\Debug\net8.0\ref\ConsoleApp14.dll
+C:\Users\0\source\repos\Энум\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.exe
+C:\Users\0\source\repos\Энум\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.deps.json
+C:\Users\0\source\repos\Энум\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.runtimeconfig.json
+C:\Users\0\source\repos\Энум\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.dll
+C:\Users\0\source\repos\Энум\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.pdb
+C:\Users\0\source\repos\Энум\ConsoleApp14\bin\Debug\net8.0\Faker.dll
+C:\Users\0\source\repos\Энум\ConsoleApp14\bin\Debug\net8.0\Faker.Net.6.0.dll
+C:\Users\0\source\repos\Энум\ConsoleApp14\bin\Debug\net8.0\de-DE\Faker.Net.6.0.resources.dll
+C:\Users\0\source\repos\Энум\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.csproj.AssemblyReference.cache
+C:\Users\0\source\repos\Энум\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\source\repos\Энум\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\0\source\repos\Энум\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfo.cs
+C:\Users\0\source\repos\Энум\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\0\source\repos\Энум\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.csproj.CopyComplete
+C:\Users\0\source\repos\Энум\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.dll
+C:\Users\0\source\repos\Энум\ConsoleApp14\obj\Debug\net8.0\refint\ConsoleApp14.dll
+C:\Users\0\source\repos\Энум\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.pdb
+C:\Users\0\source\repos\Энум\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.genruntimeconfig.cache
+C:\Users\0\source\repos\Энум\ConsoleApp14\obj\Debug\net8.0\ref\ConsoleApp14.dll
+C:\Users\0\source\repos\исключения\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.exe
+C:\Users\0\source\repos\исключения\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.deps.json
+C:\Users\0\source\repos\исключения\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.runtimeconfig.json
+C:\Users\0\source\repos\исключения\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.dll
+C:\Users\0\source\repos\исключения\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.pdb
+C:\Users\0\source\repos\исключения\ConsoleApp14\bin\Debug\net8.0\Faker.dll
+C:\Users\0\source\repos\исключения\ConsoleApp14\bin\Debug\net8.0\Faker.Net.6.0.dll
+C:\Users\0\source\repos\исключения\ConsoleApp14\bin\Debug\net8.0\de-DE\Faker.Net.6.0.resources.dll
+C:\Users\0\source\repos\исключения\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.csproj.AssemblyReference.cache
+C:\Users\0\source\repos\исключения\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\source\repos\исключения\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\0\source\repos\исключения\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfo.cs
+C:\Users\0\source\repos\исключения\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\0\source\repos\исключения\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.csproj.CopyComplete
+C:\Users\0\source\repos\исключения\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.dll
+C:\Users\0\source\repos\исключения\ConsoleApp14\obj\Debug\net8.0\refint\ConsoleApp14.dll
+C:\Users\0\source\repos\исключения\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.pdb
+C:\Users\0\source\repos\исключения\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.genruntimeconfig.cache
+C:\Users\0\source\repos\исключения\ConsoleApp14\obj\Debug\net8.0\ref\ConsoleApp14.dll
+C:\Users\0\source\repos\1\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.exe
+C:\Users\0\source\repos\1\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.deps.json
+C:\Users\0\source\repos\1\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.runtimeconfig.json
+C:\Users\0\source\repos\1\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.dll
+C:\Users\0\source\repos\1\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.pdb
+C:\Users\0\source\repos\1\ConsoleApp14\bin\Debug\net8.0\Faker.dll
+C:\Users\0\source\repos\1\ConsoleApp14\bin\Debug\net8.0\Faker.Net.6.0.dll
+C:\Users\0\source\repos\1\ConsoleApp14\bin\Debug\net8.0\de-DE\Faker.Net.6.0.resources.dll
+C:\Users\0\source\repos\1\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.csproj.AssemblyReference.cache
+C:\Users\0\source\repos\1\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\source\repos\1\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\0\source\repos\1\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfo.cs
+C:\Users\0\source\repos\1\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\0\source\repos\1\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.csproj.CopyComplete
+C:\Users\0\source\repos\1\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.dll
+C:\Users\0\source\repos\1\ConsoleApp14\obj\Debug\net8.0\refint\ConsoleApp14.dll
+C:\Users\0\source\repos\1\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.pdb
+C:\Users\0\source\repos\1\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.genruntimeconfig.cache
+C:\Users\0\source\repos\1\ConsoleApp14\obj\Debug\net8.0\ref\ConsoleApp14.dll
